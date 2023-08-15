@@ -5,6 +5,7 @@ Este es un proyecto para prácticas en el Bootcamp de Data Science en Henry ;)
 El objetivo que se busca con el análisis de los datos seleccionados es realizar una análisis exploratorio de tipo descriptivo para entender el negocio de airbnb. 
 En base al análisis descriptivo encontrar oportunidades de inversión que puedan ser capitalizadas utilizando dicho modelo de negocio.
 
+![logo](https://github.com/JimeFioni/Proyecto-Integrador-AirBnB/assets/89840721/41feab7b-1814-4a10-a7a5-3c01e8bfea49)
 
 # Acerca de Airbnb: qué es y cómo funciona
 
