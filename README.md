@@ -39,12 +39,13 @@ https://drive.google.com/drive/folders/1D5V56n5Jg-6Ye2O8WohebpXMdWXringi?usp=dri
 A través de la herramienta Power BI, realice una lectura de los datasets que me presentaban para analizar.
 Luego del proceso de EDA, comencé a realizar el dashboard que intentaré mejorar en el tiempo. 
 
-Respondiendo a lo preguntado 
+# Respondiendo a lo preguntado 
 
 * ¿Qué podemos describir con los datasets acerca del negocio de airbnb?
-  ![Air Dash1](https://github.com/JimeFioni/Proyecto-Integrador-AirBnB/assets/89840721/e54b5564-c1bf-4c20-90e3-02f0841f5c02)
+  
+![Air Dash1](https://github.com/JimeFioni/Proyecto-Integrador-AirBnB/assets/89840721/e54b5564-c1bf-4c20-90e3-02f0841f5c02)
 
-  ![Air Dash 2](https://github.com/JimeFioni/Proyecto-Integrador-AirBnB/assets/89840721/1c25106e-6ca7-4d16-90d5-26dfaf72f119)
+![Air Dash 2](https://github.com/JimeFioni/Proyecto-Integrador-AirBnB/assets/89840721/1c25106e-6ca7-4d16-90d5-26dfaf72f119)
 
 En estas capturas  se aprecia la gran cantidad de Anfitriones Airbnb que hay en Buenos Aires, existiendo la mayoria en Capital Federal.
 Pudiendo relizar un filtrado por Top 10 en los barrios con mayor cantidad de noches contratadas; resultando PALERMO , RECOLETA y MONSERRAT (Hotel Room) los barrios de Bs As con mejor posicionamiento en cuanto a reservas, mayor precio de reservas y en todos los tipos de habitación.
@@ -55,11 +56,11 @@ Resultando PALERMO, el barrio con las mayor cantidad de reseñas mensuales.
 
 * ¿Cuál es la mejor forma de invertir en AirBnb?
 
-  La mejor forma de inversión sería en Entire home / apt en el Barrio de Palermo.
+La mejor forma de inversión sería en Entire home / apt en el Barrio de Palermo.
    
 * ¿Cómo se compara con otras alternativas de inversión?
 
-  La cantidad de anfitriones en Hotel Room (5900), es menor que la de Entire Home/apt (209000); pero el precio promedio de el Hotel Room es 4 veces mayor.
+La cantidad de anfitriones en Hotel Room (5900), es menor que la de Entire Home/apt (209000); pero el precio promedio de el Hotel Room es 4 veces mayor.
   Asi mismo, la suma de la cantidad maxima de noches reservadas para un Entire home/apt es 4126357 , mientras que el Hotel Room 65878.-
   
 * Si presentamos nuestras conclusiones a un grupo inversor: ¿Qué propuestas le haríamos?,
